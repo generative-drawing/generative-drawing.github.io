@@ -45,3 +45,8 @@ All demonstration code will be available open-source via git gub before and afte
 - Carl Lostritto, (2019) Computational Drawing, Applied Research & Design Inc
 
 ```
+
+### Oranisers
+
+Daniel Buzzo, University of the West of England
+Kristina Andersen, Technical University, Eindhoven
