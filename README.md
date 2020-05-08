@@ -54,9 +54,12 @@ To generate a wider approach to participation we accept the following types of c
 Please proved a description and illustrative material using the extended abstracts template.
 
 Please submit your contributions using the EasyChair submission section of the ICCC:
+
 https://easychair.org/conferences/?conf=iccc20
 
 ### Organisers
 
 - Daniel Buzzo, University of the West of England
 - Kristina Andersen, Technical University, Eindhoven
+
+for further information please contact [daniel.buzzo@uwe.ac.uk](daniel.buzzo@uwe.ac.uk)
