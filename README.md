@@ -57,7 +57,8 @@ Please proved a description and illustrative material using the extended abstrac
 
 Please submit your contributions using the EasyChair submission section of the ICCC:
 
-https://easychair.org/conferences/?conf=iccc20
+[https://easychair.org/conferences/?conf=iccc20](https://easychair.org/conferences/?conf=iccc20
+)
 
 ### Organisers
 
