@@ -34,7 +34,9 @@ The workshop will cover the following areas over a whole day or two day period.
 
 A closing party/mini exhibition show-and-tell will happen at the end of the day to broaden the discussion and make visible individual participants works. If it were possible to access a suitable space to disseminate the works more widely it would be extremely exciting to be able to assemble the pieces from participants for exhibition. This would take the form of generative workshop outcomes. eg hung pencil drawings, written drawing rules and the subsequent generative computer works created. These could be in the form of installation/exhibited videoscreens exhibited alongside the original pencil drawings. Developed work will be documented online in video and code examples. Alongside the source drawings and physical exercises. Documents from all works, with text, photographs, video and source code will be available online after the symposium for future reference and for wider dissemination to interested artists and academics unable to attend the conference.
 
-All demonstration code will be available open-source via git gub before and after the workshop for participants to reference and contribute to.
+All demonstration code is available open-source via git gub before and after the workshop for participants to reference and contribute to.
+
+you can see the [latest versions of all examples and the main workshop starting exercise here](example-code)
 
 ### Indicative reading list;
 
