@@ -1,6 +1,5 @@
-<img style="float: right;" src="ICCC20.jpg">
-
 # Workshop: Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks 
+<img style="float: right;" src="ICCC20.jpg">
 
 ## International Conference on Computational Creativity, September 7-11, in Coimbra, Portugal.
 [ICCC2020](http://computationalcreativity.net/iccc20/)
