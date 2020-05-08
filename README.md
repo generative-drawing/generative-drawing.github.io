@@ -13,9 +13,9 @@ important dates
 This workshop will introduce participants to the basic principles of generative computational drawing systems and give practical hands on demonstrations of coding simple generative systems for art, music, audio and design using the popular C++ toolkit ['openFrameworks'](https://openframeworks.cc).
 
 
-Beginning with a discussion of generative approaches to drawing from traditional media, printmaking and weaving, participants in the workshop will gain an insight into some of the long and fascinating history of generative approaches in art. Translating ideas to audio and video, from Mozart's dice music through the work of Printmaker Sol Lewitt, weaver Annie Albers and computational artist Vera Molnar to Eno's generative video and sound using computer systems.
+Beginning with a discussion of generative approaches to drawing from traditional media, printmaking and weaving, participants in the workshop will gain an insight into some of the long and fascinating history of generative approaches in art. Translating ideas to still images and video, from the work of Printmaker Sol Lewitt, weaver Annie Albers and computational artist Vera Molnar to Eno's generative video and sound using computer systems.
  
-This proposed all day workshop is suitable for those with an interesting in coding and a familiarity with basic development on Mac, PC or Linux computers. Demonstration code and examples will be pre-prepared enabling all participants to make their own audio or video/visual generative artwork in the course of the day.
+This all day workshop is suitable for those with an interesting in coding and a familiarity with basic development on Mac, PC or Linux computers. Demonstration code and examples will be pre-prepared enabling all participants to make their own audio or video/visual generative artwork in the course of the day.
 
 The workshop provides an overview and grounding in the theory, history and application of generative and procedural systems in art and design. This module engages participants in a discussion of theory and practical application of systems featuring exemplar material from creative practitioners from the field of music, audio, video, visual arts, architecture, literature and graphic and product design. Through the practice of systems of drawing translated into computational drawing, participants will learn the mathematics and philosophical foundations of algorithmic and generative approaches to creation alongside practical demonstration and experimentation with systems. After joining this workshop participants will be able to select and apply a variety of generative systems techniques to differing situations in their own area of arts and design practice.
 
@@ -26,6 +26,9 @@ The workshop will cover the following areas over a whole day or two day period.
 - Introduction to generative and procedural systems and discussion of the historical context in relation to drawing and creativity
 - including Mozart, Sol Lewitt, Annie Albers, Vera Molnar, John Cage, William Burroughs, Brian Eno, Golan Levin, William Latham, KOAN etc
 - Basic systems types and exemplar materials in written form/ paper drawings and in C++, openFrameworks systems and exemplar/demo materials, Stochastics and Random Walks, Markov chains, L systems, Non linear composition.
+
+Activities for participants centre on;
+
 - Participants write rules for pencil drawings and test them on paper
 - Participants re-work pencil drawing rules into computer code
 - Participants work on expanding demo code to their own area of interest
