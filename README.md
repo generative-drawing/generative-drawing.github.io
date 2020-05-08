@@ -48,5 +48,5 @@ All demonstration code will be available open-source via git gub before and afte
 
 ### Oranisers
 
-Daniel Buzzo, University of the West of England
-Kristina Andersen, Technical University, Eindhoven
+- Daniel Buzzo, University of the West of England
+- Kristina Andersen, Technical University, Eindhoven
