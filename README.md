@@ -71,6 +71,24 @@ code examples include;
 ### How to Participate
 To generate a wider approach to participation entry is open to all intereted parties:
 
+### Fees and registration
+
+Fees for • Workshops and Tutorials
+The conference has two price options for those wishing to attend the Workshops and Tutorials:
+* Workshops and Tutorials in addition to main Conference (+ W&T);
+* Workshops and Tutorials only ( W&T only).
+
+ 
+
+|   | + W&T  |  W&T only |
+|---|---|---|
+| Students  | 25 €  | 45 €  |
+| Regular  | 40 €   | 60 €  |
+
+please see [registration at ICCC20](http://computationalcreativity.net/iccc20/registration/) for more details and registration process.
+ (*) prices correct at time of writing	
+		
+		
 
 ### Organisers
 
