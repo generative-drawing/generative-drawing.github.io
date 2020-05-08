@@ -1,4 +1,7 @@
-# Workshop: Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks
+<img style="float: right;" src="ICCC20.jpg">
+
+# Workshop: Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks 
+
 ## International Conference on Computational Creativity, September 7-11, in Coimbra, Portugal.
 [ICCC2020](http://computationalcreativity.net/iccc20/)
 
@@ -7,7 +10,6 @@ important dates
 - Author notification: 3rd of July
 - Workshop dates: 7-11 September
 
-![logo](ICCC20.jpg)
 
 | home | [ examples documentation](example-code) | [ workshop exercise](example-code/README_workshop.md) | [example source code ](https://github.com/generative-drawing/generative-drawing.github.io/tree/master/example-code) |
 ### Overview
