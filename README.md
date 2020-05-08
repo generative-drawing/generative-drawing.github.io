@@ -32,34 +32,16 @@ Exhibiting the outcomes of the workshop during the symposium
 A closing party/mini exhibition show-and-tell will happen at the end of the day to broaden the discussion and make visible individual participants works. If it were possible to access a suitable space to disseminate the works more widely it would be extremely exciting to be able to assemble the pieces from participants for exhibition. This would take the form of generative workshop outcomes. eg hung pencil drawings, written drawing rules and the subsequent generative computer works created. These could be in the form of installation/exhibited videoscreens exhibited alongside the original pencil drawings. Developed work will be documented online in video and code examples. Alongside the source drawings and physical exercises. Documents from all works, with text, photographs, video and source code will be available online after the symposium for future reference and for wider dissemination to interested artists and academics unable to attend the conference.
 All demonstration code will be available open-source via git gub before and after the workshop for participants to reference and contribute to.  
 
+### Indicative reading list;
+
 ```markdown
-Syntax highlighted code block
+- Przemyslaw Prusinkiewicz and Aristid Lindenmayer (2004) The Algorithmic Beauty of Plants Springer-Verlag, New York
+- Annie Albers. (1974) On Weaving. Wesleyan University Press
+- Sol LeWitt: (1977, Reprinted 2019) Four Basic Kinds of Lines & Colour. Primary Information/ Printed Matter, Inc
+- Generative Art, Science and Technology hard Journal. http://www.gasathj.com/tiki-index.php
+- Casey Reas, Chandler McWilliams (2010) Form+Code in Design, Art, and Architecture
+- Montfort et al (2014) 10 PRINT CHR$(205.5+RND(1)); : GOTO 10 (Software Studies)
+- Daniel Shiffman (2012) The Nature of Code: Simulating Natural Systems with Processing
+- Carl Lostritto, (2019) Computational Drawing, Applied Research & Design Inc
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/generative-drawing/generative-drawing.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
-
-
-You can use the [editor on GitHub](https://github.com/generative-drawing/generative-drawing.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
