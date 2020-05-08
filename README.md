@@ -7,7 +7,7 @@ important dates
 - Author notification: 3rd of July
 - Workshop dates: 7-11 September
 
-[!logo](ICCC20.jpg)
+![logo](ICCC20.jpg)
 ### Overview
 
 This workshop will introduce participants to the basic principles of generative computational drawing systems and give practical hands on demonstrations of coding simple generative systems for art, music, audio and design using the popular C++ toolkit ['openFrameworks'](https://openframeworks.cc).
@@ -19,7 +19,7 @@ This proposed all day workshop is suitable for those with an interesting in codi
 
 The workshop provides an overview and grounding in the theory, history and application of generative and procedural systems in art and design. This module engages participants in a discussion of theory and practical application of systems featuring exemplar material from creative practitioners from the field of music, audio, video, visual arts, architecture, literature and graphic and product design. Through the practice of systems of drawing translated into computational drawing, participants will learn the mathematics and philosophical foundations of algorithmic and generative approaches to creation alongside practical demonstration and experimentation with systems. After joining this workshop participants will be able to select and apply a variety of generative systems techniques to differing situations in their own area of arts and design practice.
 
-[!ant](ant.png) [!palette](palette.png) [!maze](maze.png) [!lines](lines.png)
+![ant](ant.png) ![palette](palette.png) ![maze](maze.png) ![lines](lines.png)
 
 ### Workshop Activity Outline
 The workshop will cover the following areas over a whole day or two day period.
