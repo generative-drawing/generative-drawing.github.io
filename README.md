@@ -46,7 +46,17 @@ All demonstration code will be available open-source via git gub before and afte
 
 ```
 
-### Oranisers
+### How to Participate
+To generate a wider approach to participation we accept the following types of contributions to the workshop:
+
+- Extended abstract: up to 4 pages in length using the extended abstracts template discussing system or therory approaches to generative design.
+- visual or system demonstration: a visual or oral presentation of a piece of related work/works/ as a system, process or artwork.
+Please proved a description and illustrative material using the extended abstracts template.
+
+Please submit your contributions using the EasyChair submission section of the ICCC:
+https://easychair.org/conferences/?conf=iccc20
+
+### Organisers
 
 - Daniel Buzzo, University of the West of England
 - Kristina Andersen, Technical University, Eindhoven
