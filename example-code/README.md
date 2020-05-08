@@ -7,6 +7,7 @@ ICCC2020, Coimbra Portigal September 2020
  
  https://generative-drawing.github.io/
 
+| [home](..)| [ examples documentation](example-code) | [ workshop exercise](README_workshop.md) | [example source code ](https://github.com/generative-drawing/generative-drawing.github.io/tree/master/example-code) |
 
  Examples built in C++ using openFrameworks (openframeworks.cc)
 

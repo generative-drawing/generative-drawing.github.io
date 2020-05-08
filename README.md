@@ -8,6 +8,8 @@ important dates
 - Workshop dates: 7-11 September
 
 ![logo](ICCC20.jpg)
+
+| home | [ examples documentation](example-code) | [ workshop exercise](example-code/README_workshop.md) | [example source code ](https://github.com/generative-drawing/generative-drawing.github.io/tree/master/example-code) |
 ### Overview
 
 This workshop will introduce participants to the basic principles of generative computational drawing systems and give practical hands on demonstrations of coding simple generative systems for art, music, audio and design using the popular C++ toolkit ['openFrameworks'](https://openframeworks.cc).
@@ -39,8 +41,8 @@ A closing party/mini exhibition show-and-tell will happen at the end of the day 
 
 All demonstration code is available open-source via git gub before and after the workshop for participants to reference and contribute to.
 
-you can see the documentation of the [latest versions of all examples]((example-code) and the [main workshop starting exercise here](example-code/README_workshop.md)
-and [download or clone the source code from git hub](https://github.com/generative-drawing/generative-drawing.github.io/tree/master/example-code)
+you can see the documentation of the [latest versions of all examples](example-code) and the [main workshop starting exercise here](example-code/README_workshop.md)
+and  
 
 code examples include;
 
