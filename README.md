@@ -9,10 +9,10 @@ important dates
 
 ### Overview
 
-This workshop will introduce participants to the basic principles of generative computational drawing systems and give practical hands on demonstrations of coding simple generative systems for art, music, audio and design using the popular C++ toolkit ['openFrameworks'])https://openframeworks.cc).
+This workshop will introduce participants to the basic principles of generative computational drawing systems and give practical hands on demonstrations of coding simple generative systems for art, music, audio and design using the popular C++ toolkit ['openFrameworks'](https://openframeworks.cc).
 
 
- Beginning with a discussion of generative approaches to drawing from traditional media, printmaking and weaving, participants in the workshop will gain an insight into some of the long and fascinating history of generative approaches in art. Translating ideas to audio and video, from Mozart's dice music through the work of Printmaker Sol Lewitt, weaver Annie Albers and computational artist Vera Molnar to Eno's generative video and sound using computer systems.
+Beginning with a discussion of generative approaches to drawing from traditional media, printmaking and weaving, participants in the workshop will gain an insight into some of the long and fascinating history of generative approaches in art. Translating ideas to audio and video, from Mozart's dice music through the work of Printmaker Sol Lewitt, weaver Annie Albers and computational artist Vera Molnar to Eno's generative video and sound using computer systems.
  
 This proposed all day workshop is suitable for those with an interesting in coding and a familiarity with basic development on Mac, PC or Linux computers. Demonstration code and examples will be pre-prepared enabling all participants to make their own audio or video/visual generative artwork in the course of the day.
 
@@ -32,7 +32,7 @@ The workshop will cover the following areas over a whole day or two day period.
 
 A closing party/mini exhibition show-and-tell will happen at the end of the day to broaden the discussion and make visible individual participants works. If it were possible to access a suitable space to disseminate the works more widely it would be extremely exciting to be able to assemble the pieces from participants for exhibition. This would take the form of generative workshop outcomes. eg hung pencil drawings, written drawing rules and the subsequent generative computer works created. These could be in the form of installation/exhibited videoscreens exhibited alongside the original pencil drawings. Developed work will be documented online in video and code examples. Alongside the source drawings and physical exercises. Documents from all works, with text, photographs, video and source code will be available online after the symposium for future reference and for wider dissemination to interested artists and academics unable to attend the conference.
 
-All demonstration code will be available open-source via git gub before and after the workshop for participants to reference and contribute to.  
+All demonstration code will be available open-source via git gub before and after the workshop for participants to reference and contribute to.
 
 ### Indicative reading list;
 
@@ -57,8 +57,7 @@ Please proved a description and illustrative material using the extended abstrac
 
 Please submit your contributions using the EasyChair submission section of the ICCC:
 
-[https://easychair.org/conferences/?conf=iccc20](https://easychair.org/conferences/?conf=iccc20
-)
+[https://easychair.org/conferences/?conf=iccc20](https://easychair.org/conferences/?conf=iccc20)
 
 ### Organisers
 
