@@ -1,5 +1,5 @@
-## Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks
-## International Conference on Computational Creativity, September 7-11, in Coimbra, Portugal.
+# Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks
+# International Conference on Computational Creativity, September 7-11, in Coimbra, Portugal.
 [ICCC2020](http://computationalcreativity.net/iccc20/)
 
 important dates
