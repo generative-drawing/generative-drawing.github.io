@@ -9,8 +9,8 @@ important dates
 
 ### Overview
 
-This workshop will introduce participants to the basic principles of generative computational drawing systems and give practical hands on demonstrations of coding simple generative systems for art, music, audio and design using the popular C++ toolkit 'openFrameworks'.
-Daniel Buzzo daniel.buzzo@uwe.ac.uk Creative Technology Lab University of the West of England
+This workshop will introduce participants to the basic principles of generative computational drawing systems and give practical hands on demonstrations of coding simple generative systems for art, music, audio and design using the popular C++ toolkit ['openFrameworks'])https://openframeworks.cc).
+
 
  Beginning with a discussion of generative approaches to drawing from traditional media, printmaking and weaving, participants in the workshop will gain an insight into some of the long and fascinating history of generative approaches in art. Translating ideas to audio and video, from Mozart's dice music through the work of Printmaker Sol Lewitt, weaver Annie Albers and computational artist Vera Molnar to Eno's generative video and sound using computer systems.
  
@@ -28,8 +28,10 @@ The workshop will cover the following areas over a whole day or two day period.
 - Participants work on expanding demo code to their own area of interest
 
 
-Exhibiting the outcomes of the workshop during the symposium
+### Exhibiting the outcomes of the workshop during the symposium
+
 A closing party/mini exhibition show-and-tell will happen at the end of the day to broaden the discussion and make visible individual participants works. If it were possible to access a suitable space to disseminate the works more widely it would be extremely exciting to be able to assemble the pieces from participants for exhibition. This would take the form of generative workshop outcomes. eg hung pencil drawings, written drawing rules and the subsequent generative computer works created. These could be in the form of installation/exhibited videoscreens exhibited alongside the original pencil drawings. Developed work will be documented online in video and code examples. Alongside the source drawings and physical exercises. Documents from all works, with text, photographs, video and source code will be available online after the symposium for future reference and for wider dissemination to interested artists and academics unable to attend the conference.
+
 All demonstration code will be available open-source via git gub before and after the workshop for participants to reference and contribute to.  
 
 ### Indicative reading list;
