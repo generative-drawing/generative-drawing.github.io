@@ -39,7 +39,18 @@ A closing party/mini exhibition show-and-tell will happen at the end of the day 
 
 All demonstration code is available open-source via git gub before and after the workshop for participants to reference and contribute to.
 
-you can see the [latest versions of all examples and the main workshop starting exercise here](example-code)
+you can see the documentation of the [latest versions of all examples]((example-code) and the [main workshop starting exercise here](example-code/README_workshop.md)
+and [download or clone the source code from git hub](https://github.com/generative-drawing/generative-drawing.github.io/tree/master/example-code)
+
+code examples include;
+
+* random walkers
+* simple drawing agents
+* markov Chains
+* recursion
+* generative colour palettes
+* cellular automata
+* recreating existing works with examples from Vera Molnar
 
 ### Indicative reading list;
 
