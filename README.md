@@ -59,7 +59,7 @@ https://easychair.org/conferences/?conf=iccc20
 
 ### Organisers
 
-- Daniel Buzzo, University of the West of England
-- Kristina Andersen, Technical University, Eindhoven
+- [Daniel Buzzo](https://people.uwe.ac.uk/Person/DanielBuzzo), University of the West of England
+- [Kristina Andersen](https://www.tue.nl/en/research/researchers/kristina-andersen/), Technical University, Eindhoven
 
 for further information please contact [daniel.buzzo@uwe.ac.uk](daniel.buzzo@uwe.ac.uk)
