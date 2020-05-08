@@ -1,6 +1,10 @@
 # Workshop: Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks
+ICCC2020, Coimbra Portigal September 2020
+ 
  ©2020 Dan Buzzo
+ 
  www.buzzo.com
+ 
  https://generative-drawing.github.io/
 
 

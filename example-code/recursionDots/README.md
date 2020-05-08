@@ -1,9 +1,14 @@
-# Generative Systems
-Generative Systems for Art and Design course materials
- daniel buzzo 2020
- buzzo.com
+# Workshop: Introduction to Generative Drawing with pencils, paper, C++ and openFrameworks
+ICCC2020, Coimbra Portigal September 2020
+ 
+ ©2020 Dan Buzzo
+ 
+ www.buzzo.com
+ 
+ https://generative-drawing.github.io/
 
-## 1 Visual expression: generative drawing, weaving and pattern making
+
+## Visual expression: generative drawing, weaving and pattern making
 
 * Techniques: pattern, walkers, L systems & fractals, conway game of life
 * Ideas: generative video editing and paint. making state and extending temporal 'context'
