@@ -1,2 +1,3 @@
 theme: jekyll-theme-cayman
 title: Workshop for ICCC20: Introduction to Generative Drawing
+description: This workshop will introduce participants to the principles of generative computational drawing systems and give demonstrations of coding simple generative systems for art, music and design using the C++ toolkit ‘openFrameworks’.
