@@ -4,10 +4,7 @@
 ## International Conference on Computational Creativity, September 7-11, in Coimbra, Portugal.
 [ICCC2020](http://computationalcreativity.net/iccc20/)
 
-important dates
-- Workshop Submission deadline: 1st of June
-- Author notification: 3rd of July
-- Workshop dates: Monday 7 September
+### Workshop dates: Monday 7 September
  - 11:00-13:00 Group Video session: Welcome, overview and start discussion on personal generative drawing ideas
  - 14:00- 16:00 drop in support channel with workshop organisers available (optional)
  - 16:00-18:00 Group Video session: Sharing, review and presentation of developed ideas
