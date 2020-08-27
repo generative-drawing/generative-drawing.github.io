@@ -8,13 +8,13 @@ important dates
 - Workshop Submission deadline: 1st of June
 - Author notification: 3rd of July
 - Workshop dates: Monday 7 September
-• 11:00-13:00 Group Video session: Welcome, overview and start discussion on personal generative drawing ideas
-• 14:00- 16:00 drop in support channel with workshop organisers available (optional)
-• 16:00-18:00 Group Video session: Sharing, review and presentation of developed ideas
+-- 11:00-13:00 Group Video session: Welcome, overview and start discussion on personal generative drawing ideas
+-- 14:00- 16:00 drop in support channel with workshop organisers available (optional)
+-- 16:00-18:00 Group Video session: Sharing, review and presentation of developed ideas
 --------
 
-• Tuesday - Thursday 8-10 September: informal/drop in open chat for sharing personal drawing ideas and code support 
-• Friday 9th Online web gallery of produced work presented 
+- Tuesday - Thursday 8-10 September: informal/drop in open chat for sharing personal drawing ideas and code support 
+- Friday 9th Online web gallery of produced work presented 
 
 Between sessions the organisers will be following an open channel online for drop in questions and support, after the Monday workshop we will run a side chat/support channel for interested participants and will present any developed work and the captured ideas in a gallery on the workshop website on Friday 9th September
 
