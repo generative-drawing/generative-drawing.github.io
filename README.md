@@ -99,7 +99,19 @@ The conference has two price options for those wishing to attend the Workshops a
 please see [registration at ICCC20](http://computationalcreativity.net/iccc20/registration/) for more details and registration process.
  (*) prices correct at time of writing	
 		
-		
+### Getting started
+You can download the openframeworks C++ toolkit from openframeworks.cc - you can also see extensive documentation, help files and examples there. there is also a helpful and friendly community forum.
+
+You can see introductory videos on getting started using the openFrameworks C++ toolkit on the art&code youtube channel https://youtube.com/danbuzzo
+'Creative Coding Toolkit' 
+https://www.youtube.com/playlist?list=PL6QF0yo3Zj7ALxV4MyOJ9oSFsV-Mo39R2
+
+If you are new to C++ you can also get super quick introductions to basic programming concepts in the ‘programming for artists’ video series - part one is sketching ideas and programming concepts 
+https://www.youtube.com/playlist?list=PL6QF0yo3Zj7C6IB6qFpc4UcO0SvVbyc0H
+
+and part 2 of Programming for artists is starting to code. 
+
+https://www.youtube.com/playlist?list=PL6QF0yo3Zj7DlRpQlfBULd3ngzi-qbLCY
 
 ### Organisers
 
