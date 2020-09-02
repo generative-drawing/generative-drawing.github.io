@@ -15,6 +15,10 @@
 
 Between sessions the organisers will be following an open channel online for drop in questions and support, after the Monday workshop we will run a side chat/support channel for interested participants and will present any developed work and the captured ideas in a gallery on the workshop website on Friday 9th September
 
+ We will use ZOOM video conferencing (LINK available soon) for the face to face/video parts of the morning and afternoon sessions
+
+ We will be using the ICCC Slack messaging channel https://iccc20.slack.com to exchange code, ideas and provide support and discussion during the period of the conference. You can sign up and use Slack in a browser or phone or desktop app at the address  https://iccc20.slack.com
+ 
 
 | home | [ examples documentation](example-code) | [ workshop exercise](example-code/README_workshop.md) | [example source code ](https://github.com/generative-drawing/generative-drawing.github.io/tree/master/example-code) |
 ### Overview
