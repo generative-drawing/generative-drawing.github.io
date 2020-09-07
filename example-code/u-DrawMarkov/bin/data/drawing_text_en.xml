@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<u-drawMarkov_text>
+    <comment>version0.0 dan buzzo 2020. www.buzzo.com</comment> 
+    <language>English uk </language>
+    <drawing_instructions>
+        <state>
+            <text>a line up, </text>
+            <image>lineup.png</image>
+        </state>
+        <state>
+            <text>a line down, </text>
+            <image>linedown.png</image>
+        </state>
+        <state>
+            <text>a line left, </text>
+            <image>lineleft.png</image>
+        </state>
+        <state>
+            <text>a line right, </text>
+            <image>lineright.png</image>
+        </state>
+
+        <state>
+            <text>an arc up </text>
+            <image>arcup.png</image>
+        </state>
+        <state>
+            <text>an arc down, </text>
+            <image>arcdown.png</image>
+        </state>
+        <state>
+            <text>an arc left, </text>
+            <image>arcleft.png</image>
+        </state>
+        <state>
+            <text>an arc right, </text>
+            <image>arcright.png</image>
+        </state>
+
+         <state>
+            <text>a circle, </text>
+            <image>circle.png</image>
+        </state>
+        <state>
+            <text>a square, </text>
+            <image>square.png</image>
+        </state>
+        <state>
+            <text>a loop, </text>
+            <image>loop.png</image>
+        </state>
+        <state>
+            <text>a squiggle, </text>
+            <image>squiggle.png</image>
+        </state>
+    </drawing_instructions>
+    
+    <conjunctions>
+        <text>then </text>
+        <text>then draw </text>
+        <text>and </text>
+        <text>follow with </text>
+        <text>followed by </text>
+        <text>add </text>
+        <text>adding </text>
+        <text>then add </text>
+        <text>continue with </text>
+        <text>next </text>
+        <text>next draw </text>
+    </conjunctions>
+    <introduction_text>Take a piece of paper and a pen and draw </introduction_text>
+    <exit_text>and stop.</exit_text>
+</u-drawMarkov_text>
