@@ -13,6 +13,12 @@
 - Tuesday - Thursday 8-10 September: informal/drop in open chat for sharing personal drawing ideas and code support 
 - Friday 9th Online web gallery of produced work presented 
 
+You can watch the full video from the first session online here
+
+https://youtu.be/4Y5q3sZpZTQ
+
+
+
 Between sessions the organisers will be following an open channel online for drop in questions and support, after the Monday workshop we will run a side chat/support channel for interested participants and will present any developed work and the captured ideas in a gallery on the workshop website on Friday 9th September
 
  We will use ZOOM video conferencing (LINK available soon) for the face to face/video parts of the morning and afternoon sessions
@@ -30,7 +36,7 @@ Beginning with a discussion of generative approaches to drawing from traditional
  
 This all day workshop is suitable for those with an interesting in coding and a familiarity with basic development on Mac, PC or Linux computers. Demonstration code and examples will be pre-prepared enabling all participants to make their own audio or video/visual generative artwork in the course of the day.
 
-The workshop provides an overview and grounding in the theory, history and application of generative and procedural systems in art and design. This module engages participants in a discussion of theory and practical application of systems featuring exemplar material from creative practitioners from the field of music, audio, video, visual arts, architecture, literature and graphic and product design. Through the practice of systems of drawing translated into computational drawing, participants will learn the mathematics and philosophical foundations of algorithmic and generative approaches to creation alongside practical demonstration and experimentation with systems. After joining this workshop participants will be able to select and apply a variety of generative systems techniques to differing situations in their own area of arts and design practice.
+The workshop provides an overview and grounding in the theory, history and application of generative and procedural systems in art and design. This workshop engages participants in a discussion of theory and practical application of systems featuring exemplar material from creative practitioners from the field of music, audio, video, visual arts, architecture, literature and graphic and product design. Through the practice of systems of drawing translated into computational drawing, participants will learn the mathematics and philosophical foundations of algorithmic and generative approaches to creation alongside practical demonstration and experimentation with systems. After joining this workshop participants will be able to select and apply a variety of generative systems techniques to differing situations in their own area of arts and design practice.
 
 ![ant](ant.png) ![palette](palette.png) ![maze](maze.png) ![lines](lines.png)
 
