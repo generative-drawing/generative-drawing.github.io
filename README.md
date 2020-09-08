@@ -17,6 +17,8 @@ You can watch the full video from the first session online here
 
 https://youtu.be/4Y5q3sZpZTQ
 
+<img style="float: right;" src="ICCC-workshop.jpg">
+
 
 
 Between sessions the organisers will be following an open channel online for drop in questions and support, after the Monday workshop we will run a side chat/support channel for interested participants and will present any developed work and the captured ideas in a gallery on the workshop website on Friday 9th September
